@@ -21,5 +21,3 @@
 [![Gmail Badge](https://img.shields.io/badge/-dancon.alferes@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:it.dancon.alferes@gmail.com)](mailto:it.dancon.alferes@gmail.com)
 
 </p>
-
-![#f03c15](https://via.placeholder.com/15/f03c15/000000?text=seila)
