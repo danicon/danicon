@@ -7,14 +7,14 @@
 </p>
 
 
- <p align="justify"> :rocket:  &nbsp; Sou estudando da Universidade Paulista (UNIP) 
+ <p align="justify"> :rocket:  &nbsp; Sou estudando da Universidade Paulista (<i>UNIP</i>) 
  <br/> :v: &nbsp; Buscando colaborar com projetos em Front-end e Back-end
- <br/> :sos: &nbsp; Principais linguagens de programação: Python e JavaScript 
- <br/> :computer: &nbsp; Minha stack: JavasScript e em breve pretendo me dedicar ao aprendizado do ReactJS e MySQL
- <br/> 💬  &nbsp;Sobre mim: Além de tecnologia, gosto de viagens, séries, filmes & Animes! Quando não estou estudando, estou praticando a música :) </p>
+ <br/> :sos: &nbsp; <b>Principais linguagens de programação</b>: Python e JavaScript 
+ <br/> :computer: &nbsp; <b>Minha stack</b>: JavasScript e em breve pretendo me dedicar ao aprendizado do ReactJS e MySQL
+ <br/> 💬  &nbsp;<b>Sobre mim</b>: Além de tecnologia, gosto de viagens, séries, filmes & Animes! Quando não estou estudando, estou praticando a música :) </p>
  
 
-<p align="left">  :envelope:  <b>Contato:</b>
+<p align="left">  :envelope:  <b>Contato</b>:
  
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/daniel-alferes-369b831a5/)](https://www.linkedin.com/in/daniel-alferes-369b831a5/)
 [![Instagram Badge](https://img.shields.io/badge/-instagram-723b91?style=flat-square&logo=instagram&logoColor=white&link=https://www.instagram.com/dan_alferes/)](https://www.instagram.com/dan_alferes/)
