@@ -9,7 +9,7 @@
 
  <p align="justify"> :rocket:  &nbsp; Sou estudando da Universidade Paulista (<i>UNIP</i>) 
  <br/> :v: &nbsp; Buscando colaborar com projetos em <ins>Front-end e Back-end</ins>
- <br/> :sos: &nbsp; <b>Principais linguagens de programação</b>: <span style="color:red"> Python e JavaScript </span>
+ <br/> :sos: &nbsp; <b>Principais linguagens de programação</b>: Python e JavaScript 
  <br/> :computer: &nbsp; <b>Minha stack</b>: JavasScript e em breve pretendo me dedicar ao aprendizado do ReactJS e MySQL
  <br/> 💬  &nbsp; <b>Sobre mim</b>: Além de tecnologia, gosto de viagens, séries, filmes & Animes! Quando não estou estudando, estou praticando a música :) </p>
  
@@ -21,4 +21,5 @@
 [![Gmail Badge](https://img.shields.io/badge/-dancon.alferes@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:it.dancon.alferes@gmail.com)](mailto:it.dancon.alferes@gmail.com)
 
 </p>
-<span style="color:blue">some *This is Blue italic.* text</span>
+
+- ![#f03c15](https://via.placeholder.com/15/f03c15/000000?text=+) `#f03c15`
