@@ -14,7 +14,7 @@
  <br/> 💬  &nbsp;Sobre mim: Além de tecnologia, gosto de viagens, séries, filmes & Animes! Quando não estou estudando, estou praticando a música :) </p>
  
 
-<p align="left">  :envelope:;  __Contato:__
+<p align="left" color='black>  :envelope:  Contato:
  
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/daniel-alferes-369b831a5/)](https://www.linkedin.com/in/daniel-alferes-369b831a5/)
 [![Instagram Badge](https://img.shields.io/badge/-instagram-723b91?style=flat-square&logo=instagram&logoColor=white&link=https://www.instagram.com/dan_alferes/)](https://www.instagram.com/dan_alferes/)
