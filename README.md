@@ -11,7 +11,7 @@
  <br/> :v: &nbsp; Buscando colaborar com projetos em Front-end e Back-end
  <br/> :sos: &nbsp; **Principais linguagens de programação**: Python e JavaScript 
  <br/> :computer: &nbsp; **Minha stack**: JavasScript e em breve pretendo me dedicar ao aprendizado do ReactJS e MySQL
- <br/> 💬  &nbsp;**Sobre mim**: Além de tecnologia, gosto de viagens, séries, filmes & Animes! Quando não estou estudando, estou praticando a música :) </p>
+ <br/> 💬  &nbsp;**Sobre** mim: Além de tecnologia, gosto de viagens, séries, filmes & Animes! Quando não estou estudando, estou praticando a música :) </p>
  
 
 <p align="left">  :envelope:  Contato:
