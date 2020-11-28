@@ -18,6 +18,6 @@
  
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/daniel-alferes-369b831a5/)](https://www.linkedin.com/in/daniel-alferes-369b831a5/)
 [![Gmail Badge](https://img.shields.io/badge/-dancon.alferes@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:it.dancon.alferes@gmail.com)](mailto:it.dancon.alferes@gmail.com)
-[![Instagram Badge](https://img.shields.io/badge/-instagram-violet?style=flat-square&logo=instagram&logoColor=white&link=https://www.instagram.com/dan_alferes/)](https://www.instagram.com/dan_alferes/)
+[![Instagram Badge](https://img.shields.io/badge/-instagram-3f729b?style=flat-square&logo=instagram&logoColor=white&link=https://www.instagram.com/dan_alferes/)](https://www.instagram.com/dan_alferes/)
 
 </p>
