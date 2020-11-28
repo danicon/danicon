@@ -15,6 +15,8 @@
  
 
 <p align="left">  :envelope:  Contato:
+ [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/daniel-alferes-369b831a5/)](https://www.linkedin.com/in/daniel-alferes-369b831a5/)
+ 
 [![Linkedin Badge](https://img.shields.io/badge/-Diego%20Fernandes-6633cc?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/daniel-alferes-369b831a5/)](https://www.linkedin.com/in/daniel-alferes-369b831a5/) 
 [![Gmail Badge](https://img.shields.io/badge/-diego.schell.f@gmail.com-6633cc?style=flat-square&logo=Gmail&logoColor=white&link=mailto:dancon.alferes@gmail.com)](mailto:dancon.alferes@gmail.com)
 [![Instagram Badge](https://img.shields.io/badge/-instagram-violet?style=flat-square&logo=instagram&logoColor=white&link=https://www.instagram.com/dan_alferes/)](https://www.instagram.com/dan_alferes/)
