@@ -1,16 +1,23 @@
-### Hi there 👋
+<h3 align="center"> Hello guys, me chamo Daniel! :love_you_gesture:</h3>
+<h5 align="center"> Resolvedor de problemas amador, curioso e apaixonado por código. <br/> 
+ Estou em Desenvolvimento de aprendizagem no Front-end e pretendo me tornar Fullstack :computer:</h5> 
 
-<!--
-**danicon/danicon** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p align="center">
+<img src="https://images.unsplash.com/photo-1571171637578-41bc2dd41cd2?ixlib=rb-1.2.1&auto=format&fit=crop&w=750&q=80" alt="Imagem"/>
+</p>
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+ <p align="justify"> :rocket:  &nbsp; Sou estudando da Universidade Paulista (UNIP) 
+ <br/> :v: &nbsp; Buscando colaborar com projetos em Front-end e Back-end
+ <br/> :sos: &nbsp; Principais linguagens de programação: Python e JavaScript 
+ <br/> :computer: &nbsp; Minha stack: JavasScript e em breve pretendo me dedicar ao aprendizado do ReactJS e MySQL
+ <br/> 💬  &nbsp;Sobre mim: Além de tecnologia, gosto de viagens, séries, filmes & Animes! Quando não estou estudando, estou praticando a música :) </p>
+ 
+
+<p align="left">  :envelope:  Contato:
+ 
+[![Linkedin Badge](https://img.shields.io/badge/-Daniel_Alferes-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/daniel-alferes-369b831a5/)](www.linkedin.com/in/daniel-alferes-369b831a5/) 
+[![Gmail Badge](https://img.shields.io/badge/-it.amancio@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:it.dancon.alferes@gmail.com)](mailto:it.dancon.alferes@gmail.com)
+[![Instagram Badge](https://img.shields.io/badge/-instagram-violet?style=flat-square&logo=instagram&logoColor=white&link=https://www.instagram.com/dan_alferes/)](https://www.instagram.com/dan_alferes/)
+
+</p>
