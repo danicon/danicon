@@ -21,4 +21,4 @@
 [![Gmail Badge](https://img.shields.io/badge/-dancon.alferes@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:it.dancon.alferes@gmail.com)](mailto:it.dancon.alferes@gmail.com)
 
 </p>
-<span style="color:blue">some *This is Blue italic.* text</span
+<span style="color:blue">some *This is Blue italic.* text</span>
