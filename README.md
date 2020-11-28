@@ -1,6 +1,6 @@
 <h2 align="center"> Hello World, me chamo Daniel! :love_you_gesture:</h2>
 <h5 align="center"> Resolvedor de problemas amador, curioso e apaixonado por código. <br/> 
- Estou em Desenvolvimento de aprendizagem no Front-end e pretendo me tornar Fullstack :computer:</h5> 
+ Estou em Desenvolvimento de aprendizagem no <b>Front-end</b> e pretendo me tornar <b>Fullstack</b> :computer:</h5> 
 
 <p align="center">
 <img src="https://images.unsplash.com/photo-1571171637578-41bc2dd41cd2?ixlib=rb-1.2.1&auto=format&fit=crop&w=750&q=80" alt="Imagem"/ width='550' height='350'>
@@ -8,10 +8,10 @@
 
 
  <p align="justify"> :rocket:  &nbsp; Sou estudando da Universidade Paulista (<i>UNIP</i>) 
- <br/> :v: &nbsp; Buscando colaborar com projetos em Front-end e Back-end
+ <br/> :v: &nbsp; Buscando colaborar com projetos em <span>Front-end e Back-end</span>
  <br/> :sos: &nbsp; <b>Principais linguagens de programação</b>: Python e JavaScript 
  <br/> :computer: &nbsp; <b>Minha stack</b>: JavasScript e em breve pretendo me dedicar ao aprendizado do ReactJS e MySQL
- <br/> 💬  &nbsp;<b>Sobre mim</b>: Além de tecnologia, gosto de viagens, séries, filmes & Animes! Quando não estou estudando, estou praticando a música :) </p>
+ <br/> 💬  &nbsp; <b>Sobre mim</b>: Além de tecnologia, gosto de viagens, séries, filmes & Animes! Quando não estou estudando, estou praticando a música :) </p>
  
 
 <p align="left">  :envelope:  <b>Contato</b>:
