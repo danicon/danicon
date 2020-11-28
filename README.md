@@ -3,7 +3,7 @@
  Estou em Desenvolvimento de aprendizagem no Front-end e pretendo me tornar Fullstack :computer:</h5> 
 
 <p align="center">
-<img src="https://images.unsplash.com/photo-1571171637578-41bc2dd41cd2?ixlib=rb-1.2.1&auto=format&fit=crop&w=750&q=80" alt="Imagem"/ width='50'>
+<img src="https://images.unsplash.com/photo-1571171637578-41bc2dd41cd2?ixlib=rb-1.2.1&auto=format&fit=crop&w=750&q=80" alt="Imagem"/ width='200' height='100'>
 </p>
 
 
