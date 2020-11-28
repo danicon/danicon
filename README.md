@@ -8,7 +8,7 @@
 
 
  <p align="justify"> :rocket:  &nbsp; Sou estudando da Universidade Paulista (<i>UNIP</i>) 
- <br/> :v: &nbsp; Buscando colaborar com projetos em Front-end e Back-end
+ <br/> :v: &nbsp; Buscando colaborar com projetos em <ins>Front-end e Back-end</ins>
  <br/> :sos: &nbsp; <b>Principais linguagens de programação</b>: Python e JavaScript 
  <br/> :computer: &nbsp; <b>Minha stack</b>: JavasScript e em breve pretendo me dedicar ao aprendizado do ReactJS e MySQL
  <br/> 💬  &nbsp; <b>Sobre mim</b>: Além de tecnologia, gosto de viagens, séries, filmes & Animes! Quando não estou estudando, estou praticando a música :) </p>
