@@ -1,4 +1,4 @@
-<h3 align="center"> Hello guys, me chamo Daniel! :love_you_gesture:</h3>
+<h2 align="center"> Hello guys, me chamo Daniel! :love_you_gesture:</h2>
 <h5 align="center"> Resolvedor de problemas amador, curioso e apaixonado por código. <br/> 
  Estou em Desenvolvimento de aprendizagem no Front-end e pretendo me tornar Fullstack :computer:</h5> 
 
