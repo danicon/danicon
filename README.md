@@ -1,5 +1,5 @@
 <h2 align="center"> Hello World, me chamo Daniel! :love_you_gesture:</h2>
-<h5 align="center"> Resolvedor de problemas amador, curioso e apaixonado por código. <br/> 
+<h5 align="center"> Solucionador de problemas junior, curioso e apaixonado por código. <br/> 
  Estou em Desenvolvimento de aprendizagem no Front-end e pretendo me tornar Fullstack :computer:</h5> 
 
 <p align="center">
