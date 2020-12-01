@@ -12,7 +12,7 @@
  <br/> :nerd_face: &nbsp; <b>Principais linguagens de Programação</b>: Python e JavaScript 
  <br/> :ballot_box_with_check: &nbsp; <b>Linguagens para Web</b>: HTML5 e CSS3 
  <br/> :computer: &nbsp; <b>Minha skill</b>: JavasScript e em breve pretendo me dedicar ao aprendizado do ReactNative e MySQL
- <br/>   &nbsp; <b>Sobre mim</b>: Além de tecnologia, gosto de viagens, séries, filmes & Animes! Quando não estou estudando, estou praticando a música :) </p>
+ <br/> :speech_balloon: &nbsp; <b>Sobre mim</b>: Além de tecnologia, gosto de viagens, séries, filmes & Animes! Quando não estou estudando, estou praticando a música :) </p>
  
 
 <p align="left">  :envelope:  <b>Contato</b>:
