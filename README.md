@@ -10,7 +10,7 @@
  <p align="justify"> :rocket:  &nbsp; Sou estudando da Universidade Paulista (<i>UNIP</i>) 
  <br/> :v: &nbsp; Buscando colaborar com projetos em <ins>Front-end e Back-end</ins>
  <br/> :nerd_face: &nbsp; <b>Principais linguagens de programação</b>: Python e JavaScript 
- <br/> :nerd_face: &nbsp; <b>Linguagens para a Web:</b>: HTML5 e CSS3 
+ <br/> :ballot_box_with_check: &nbsp; <b>Linguagens para Web</b>: HTML5 e CSS3 
  <br/> :computer: &nbsp; <b>Minha stack</b>: JavasScript e em breve pretendo me dedicar ao aprendizado do ReactNative e MySQL
  <br/> 💬  &nbsp; <b>Sobre mim</b>: Além de tecnologia, gosto de viagens, séries, filmes & Animes! Quando não estou estudando, estou praticando a música :) </p>
  
