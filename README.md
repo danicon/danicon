@@ -17,8 +17,8 @@
 ## Sobre mim
 
 - 🐱‍💻 Atualmente estou estagiando como Analista de Sistema Full-Stack, desenvolvendo Software Frameworks para melhorar a qualidade da empresa [eZly Tecnologia](https://ezly.com.br/)
-- 👩‍💻 Graduando em Ciência da Computação pela [UNIP](https://www.unip.br/cursos/graduacao/tradicionais/ciencia_computacao.aspx) 🎓
-- 💌 Para maiores esclarecimentos ou convites para contribuições e parcerias, envie-me um e-mail: dancon.alferes@gmail.com
+- :man_technologist: Graduando em Ciência da Computação pela [UNIP](https://www.unip.br/cursos/graduacao/tradicionais/ciencia_computacao.aspx) 🎓
+- :envelope_with_arrow: Para maiores esclarecimentos ou convites para contribuições e parcerias, envie-me um e-mail: dancon.alferes@gmail.com
 - 💬 Pode me perguntar sobre qualquer coisa, ficarei feliz em ajudar :D
 
 ## Tecnologias e Ferramentas
