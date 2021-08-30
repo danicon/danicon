@@ -56,7 +56,7 @@
 <br />
 <br />
 
-![Snake animation](https://github.com/danicon/danicon-svg/blob/output/github-contribution-grid-snake.svg)
+![Snake animation](https://github.com/danicon/danicon-svg/blob/main/github-contribution-grid-snake.svg)
 
 <hr />
 
