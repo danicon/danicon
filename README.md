@@ -4,7 +4,7 @@
 </h2>
  <p align='center'><i>❝Ser desenvolvedor é uma viagem onde a próxima parada é a solução de um problema.❞</i></p>
 </div>
-
+[go](http://stackoverflow.com){:target="_blank" rel="noopener"}
 <h5 align="center">
   <code>
     <a target="_blank" href="https://www.linkedin.com/in/daniel-alferes" title="LinkedIn"> 
