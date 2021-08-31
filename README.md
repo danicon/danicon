@@ -6,7 +6,7 @@
 </div>
 <p align="left">  :envelope:  <b>Contato</b>:
  
-[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/daniel-alferes/)](https://www.linkedin.com/in/daniel-alferes/)
+[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/daniel-alferes/)](https://www.linkedin.com/in/daniel-alferes/){:target="_blank" rel="noopener"}
 [![Instagram Badge](https://img.shields.io/badge/-instagram-723b91?style=flat-square&logo=instagram&logoColor=white&link=https://www.instagram.com/dan_alferes/)](https://www.instagram.com/dan_alferes/)
 [![Gmail Badge](https://img.shields.io/badge/-dancon.alferes@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:it.dancon.alferes@gmail.com)](mailto:it.dancon.alferes@gmail.com)
 [go](http://stackoverflow.com){:target="_blank" rel="noopener"}
